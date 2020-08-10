@@ -1,7 +1,8 @@
 ## hf-recruit frontend
-React
-node v8.10
-npm v6.14.7
+
+React  
+node v8.10  
+npm v6.14.7  
 
 
 ```
